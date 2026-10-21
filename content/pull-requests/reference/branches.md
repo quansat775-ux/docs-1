@@ -1,4 +1,4 @@
----
+quanssat775@gmail.com---
 title: Branches
 intro: Use branches in GitHub to isolate development work, manage default branches, and collaborate effectively using pull requests and branch protections.
 redirect_from:
